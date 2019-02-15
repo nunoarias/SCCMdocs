@@ -125,6 +125,6 @@ After an automatic user device affinity is created, Configuration Manager contin
 
 2.  In the **Assets and Compliance** workspace, select the user or device collection for which you want to manage affinity requests.  
 
-3.  On the **Home** tab, in the **Collection** group, choose **Manage Affinity Requests**.  
+3.  On the **Collection** tab, in the **Collection** group, choose **Manage Affinity Requests**.  
 
 4.  In the **Manage User Device Affinity Requests** dialog box, select an affinity request, and then choose **Approve** or **Reject**.  
